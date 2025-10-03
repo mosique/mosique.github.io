@@ -2,14 +2,14 @@
 title: "Molecular dynamics and Raman optical activity spectra reveal nucleotide conformation ratios in solution"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/paper2
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2023-02-07
+venue: 'Physical Chemistry Chemical Physics'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://doi.org/10.1039/D2CP05756E'
 bibtexurl: 'http://mosique.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Nucleotide conformational flexibility affects their biological functions. Although the spectroscopy of Raman optical activity (ROA) is well suited to structural analyses in aqueous solutions, the link between the spectral shape and the nucleotide geometry is not fully understood. We recorded the Raman and ROA spectra of model nucleotides (rAMP, rGMP, rCMP, and dTMP) and interpreted them on the basis of molecular dynamics (MD) combined with density functional theory (DFT). The relation between the sugar puckering, base conformation and spectral intensities is discussed. Hydrogen bonds between the sugar's C3′ hydroxyl and the phosphate groups were found to be important for the sugar puckering. The simulated spectra correlated well with the experimental data and provided an understanding of the dependence of the spectral shapes on conformational dynamics. Most of the strongest spectral bands could be assigned to vibrational molecular motions. Decomposition of the experimental spectra into calculated subspectra based on arbitrary maps of free energies provided experimental conformer populations, which could be used to verify and improve the MD predictions. The analyses indicate some flaws of common MD force fields, such as being unable to describe the fine conformer distribution. Also the accuracy of conformer populations obtained from the spectroscopic data depends on the simulations, improvement of which is desirable for gaining a more detailed insight in the future. Improvement of the spectroscopic and computational methodology for nucleotides also provides opportunities for its application to larger nucleic acids.
 
