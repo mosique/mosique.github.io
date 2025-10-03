@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Mohammed Siddhique",
-    "email": "mohammedsiddhique@gmail.com",
+    "name": "Your Sidebar Name",
+    "email": "none@example.org",
     "phone": "",
     "website": "https://academicpages.github.io",
-    "summary": "PhD candidate at Charles University",
+    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Prague",
-      "countryCode": "CZ",
+      "city": "Earth",
+      "countryCode": "US",
       "region": ""
     },
     "profiles": [
@@ -33,8 +33,8 @@
   "work": [],
   "education": [
     {
-      "institution": "Charles University",
-      "area": "MS in Chemistry",
+      "institution": "GitHub University",
+      "area": "Ph.D in Version Control Theory",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
