@@ -33,29 +33,20 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
+      "institution": "Charles University",
+      "area": "compuational modeling of vibrational optical activity",
+      "studyType": "PhD",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "IISER Thiruvananthpuram",
+      "area": "BSMS in Chemistry",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "",
       "gpa": null,
       "courses": []
     }
